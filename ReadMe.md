@@ -1,3 +1,8 @@
+## NextJS Weather APP by Ehiane
+
+#### Tutorial link: [Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript - FreeCodeCamp.org](https://www.youtube.com/watch?v=KkC_wYM_Co4&list=PL0JGOiQGGUyzvW_G2ukkYk6Qgml7tu9HZ)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
