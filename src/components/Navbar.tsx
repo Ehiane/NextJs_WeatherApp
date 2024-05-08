@@ -1,6 +1,7 @@
 // shortcut for boiler plate: "tsrfc"
 import React from 'react'
 import { MdWbSunny, MdMyLocation, MdOutlineLocationOn } from "react-icons/md";
+import Searchbox from './Searchbox';
 
 type Props = {}
 
@@ -18,7 +19,10 @@ export default function Navbar({}: Props) {
           <MdMyLocation className='text-2xl text-gray-400 hover:opacity-80 cursor-pointer' />
           <MdOutlineLocationOn  className='text-3xl' />
           <p className='text-slat-900/80 text-sm'> --Display location dynamically-- </p>
-          <div>{/* SearchBox */}</div>
+          <div>
+            <Searchbox/>
+          
+          </div>
           </section>
         </div>
     </nav>
